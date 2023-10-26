@@ -1,0 +1,1 @@
+If you are encountering infinite loop - reason might be that you are excepting non positive sides/radius

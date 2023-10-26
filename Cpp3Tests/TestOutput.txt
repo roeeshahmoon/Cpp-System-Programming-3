@@ -1,0 +1,604 @@
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+0
+Invalid selection.
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+-1
+Invalid selection.
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+5
+Invalid selection.
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+Exception: List is empty!
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+Exception: The List is empty!
+please try again
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 0
+Invalid choice
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: -1
+Invalid choice
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 4
+Invalid choice
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 355
+Invalid choice
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+Exception: The List is empty!
+please try again
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+Exception: List is empty!
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 1
+Enter square's color: 34
+Enter square's side length: 34
+Exception: color must be red green or blue
+please try again
+Enter square's color: r
+Enter square's side length: 45
+Exception: color must be red green or blue
+please try again
+Enter square's color: red
+Enter square's side length: -1
+Exception: The side must be positive
+please try again
+Enter square's color: green
+Enter square's side length: 0
+Exception: The side must be positive
+please try again
+Enter square's color: bl
+Enter square's side length: -5
+Exception: color must be red green or blue
+please try again
+Enter square's color: blue
+Enter square's side length: 5
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Square details: color=blue, side length=5
+area= 25, perimeter=20
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 1
+Enter square's color: red
+Enter square's side length: 10
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Square details: color=red, side length=10
+area= 100, perimeter=40
+* * * * * * * * * *
+* * * * * * * * * *
+* * * * * * * * * *
+* * * * * * * * * *
+* * * * * * * * * *
+* * * * * * * * * *
+* * * * * * * * * *
+* * * * * * * * * *
+* * * * * * * * * *
+* * * * * * * * * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 2
+Enter circle's color: blue
+Enter circle's radius: 0
+Exception: The radius must be positive!
+please try again
+Enter circle's color: blue
+Enter circle's radius: 3
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 3
+Enter Triangle's color: green
+Enter Triangle's side: -6
+Exception: The sides must be greater then zero
+please try again
+Enter Triangle's color: green
+Enter Triangle's side: 7
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 1
+Enter square's color: green
+Enter square's side length: 6
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Square details: color=green, side length=6
+area= 36, perimeter=24
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 2
+Enter circle's color: red
+Enter circle's radius: 2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Circle details: color=red, radius=2
+area= 12.56, perimeter=12.56
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 2
+Enter circle's color: blue
+Enter circle's radius: 5.5
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Circle details: color=blue, radius=5.5
+area= 94.985, perimeter=34.54
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 2
+Enter circle's color: green
+Enter circle's radius: 10.1
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 1
+Enter square's color: red
+Enter square's side length: 12.1
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Square details: color=red, side length=12.1
+area= 146.41, perimeter=48.4
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 3
+Enter Triangle's color: red
+Enter Triangle's side: 3.4
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+OrthogonalTriangle details: color=red, side=3.4
+area= 5.78, perimeter=11.6083
+*
+* *
+* * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 3
+Enter Triangle's color: green
+Enter Triangle's side: 14.9
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 3
+Enter Triangle's color: blue
+Enter Triangle's side: 7
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+OrthogonalTriangle details: color=blue, side=7
+area= 24.5, perimeter=23.8995
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+OrthogonalTriangle details: color=green, side=14.9
+area= 111.005, perimeter=50.8718
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+* * * * * * * *
+* * * * * * * * *
+* * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+OrthogonalTriangle details: color=red, side=3.4
+area= 5.78, perimeter=11.6083
+*
+* *
+* * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Square details: color=red, side length=12.1
+area= 146.41, perimeter=48.4
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+* * * * * * * * * * * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Circle details: color=green, radius=10.1
+area= 320.311, perimeter=63.428
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Circle details: color=red, radius=2
+area= 12.56, perimeter=12.56
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Square details: color=green, side length=6
+area= 36, perimeter=24
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+OrthogonalTriangle details: color=green, side=7
+area= 24.5, perimeter=23.8995
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+3
+
+Circle details: color=blue, radius=3
+area= 28.26, perimeter=18.84
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+2
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+1
+
+Choose 1 for Square, 2 for Circle, 3 for Triangle: 1
+Enter square's color: blue
+Enter square's side length: 45
+=======================================
+<1> Add element to the list
+<2> Remove the last shape from list
+<3> Print the last shape
+<4> Exit
+=======================================
+4
